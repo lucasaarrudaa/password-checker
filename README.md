@@ -1,3 +1,5 @@
+STATUS: WORKING
+
 File: password_checker.py
 The PasswordChecker class is a Python class that checks the strength of passwords based on provided keywords. It uses regular expressions for verification.
 
